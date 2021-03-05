@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hugomesquita.com.br/sitemap.xml
+Sitemap: http://www.google.com/ping?sitemap=https://hugomesquita.com.br/sitemap.xml
